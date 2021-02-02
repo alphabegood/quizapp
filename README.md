@@ -1,15 +1,30 @@
 # quizapp
 
-A new Flutter project.
+A simple flutter quiz application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Download or clone the project locally.
 
-A few resources to get you started if this is your first Flutter project:
+```
+$git clone https://github.com/alphabegood/quizapp.git
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+```
+$ flutter pub get
+```
+
+Activate the web debugger if your want to see the quiz app on browser.
+
+```
+$ flutter config --enable-web
+```
+
+Run the project with:
+
+```
+$ flutter run
+```
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
